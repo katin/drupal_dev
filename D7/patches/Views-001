@@ -4,6 +4,7 @@
 // that creates the apache error log msg of ""
 // PHP Fatal error:  [] operator not supported for strings in /mnt/web-data/ist/public_html/sites/all/modules/views/includes/admin.inc on line 2399
 // add the RP lines to views/includes/admin.inc:
+// adding this line
 
 
 function views_ui_regenerate_tab(&$view, &$output, $display_id) {
